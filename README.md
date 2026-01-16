@@ -2,7 +2,7 @@
 
 
 #  🔹 Descripción
-Esta es una aplicación de consola en Kotlin para gestionar inscripciones a un taller, llamada “Kotlin Taller González”.
+Esta es una aplicación de consola en Kotlin para gestionar inscripciones a un taller, llamada “Kotlin Taller Sur Tenerife"
 Permite registrar participantes, calcular precios según reglas de edad, validar datos de entrada, y mostrar estadísticas resumidas de manera sencilla y segura.
 La app está diseñada para ser ejecutada en IntelliJ IDEA u otro entorno compatible con Kotlin/JVM.
 
@@ -71,7 +71,7 @@ Al finalizar, verás las estadísticas y listado completo.
 
 
 #  📝 Ejemplo de uso
-=== Kotlin Taller González ===
+=== Kotlin Taller Sur Tenerife ===
 Aforo máximo: 5
 Precio base: 50.0 €
 
@@ -94,7 +94,7 @@ Menores de edad inscritos: 0
 === Listado de Inscripciones ===
 A - Samuel, 27 años, mañana, 25.0 €, dominio: gmail.com
 ...
-Gracias por usar la app de Kotlin Taller González
+Gracias por usar la app de Kotlin Taller Sur Tenerife
 
 
 
